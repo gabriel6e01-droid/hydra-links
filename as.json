@@ -1,6 +1,4 @@
-{
-  "links": [
-    "https://example.com/file1",
-    "https://example.com/file2"
-  ]
-}
+[
+  "https://example.com/file1",
+  "https://example.com/file2"
+]
